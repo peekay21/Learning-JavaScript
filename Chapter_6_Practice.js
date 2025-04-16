@@ -8,5 +8,8 @@ function canDrive(age){
     }
 }
 
-let age = prompt("Enter your age");
-canDrive(age);
+do
+{
+    let age = prompt("Enter your age");
+    canDrive(age);
+}while(confirm("Whether you want to see prompt once again or not!"));
