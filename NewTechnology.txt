@@ -1,0 +1,8 @@
+1. Docs - > Jasper
+2. Google -> Perplexity
+3. after effects -> pika
+4. illustrator -> leonardo
+5. photoshop -> pixlr
+6. voice over -> elevenlabs
+7. ppt -> gammar
+8. premiere -> runway
